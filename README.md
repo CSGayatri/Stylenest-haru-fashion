@@ -5,12 +5,6 @@
 
 An e-commerce web application developed with Next.JS and TypeScript. Tailwind CSS is used for styling and React's Context API is used for state management. Custom REST API is used as a backend.Developed with NodeJS, Express, TypeScript, Prisma and PostgreSQL.
 
-## Demo
-
-<p align="center">
-<a href="https://haru-fashion.vercel.app/"><img src="https://user-images.githubusercontent.com/53733092/139051262-7d501510-17ab-4e57-83da-c07385a85f9c.gif" alt="Haru-Fashion Demo" /></a><br/><br/>
-<a href="https://haru-fashion.vercel.app/"><img src="https://user-images.githubusercontent.com/53733092/139092307-3e364931-a083-40d9-9f0e-604db4170c2b.png" width="130"/></a>
-</p>
 
 ## Features
 
