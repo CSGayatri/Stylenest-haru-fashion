@@ -12,12 +12,6 @@ An e-commerce web application developed with Next.JS and TypeScript. Tailwind CS
 <a href="https://haru-fashion.vercel.app/"><img src="https://user-images.githubusercontent.com/53733092/139092307-3e364931-a083-40d9-9f0e-604db4170c2b.png" width="130"/></a>
 </p>
 
-## Lighthouse Score
-
-<p align="center">
-<img width="763" alt="Lighthouse" src="https://user-images.githubusercontent.com/53733092/155963931-9de8e33f-e77a-40fb-8cae-18ceffb057ad.png">
-</p>
-
 ## Features
 
 - Progressive Web App (PWA) 🔥
